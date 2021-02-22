@@ -1,19 +1,19 @@
 {
-    "name": "Ultroid UserBot",
-    "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://telegra.ph/file/1518e15421d21c5afd9af.jpg",
+    "name": "KINGBOT",
+    "description": "Pluggable telegram KINGuserbot, made in python using Telethon.",
+    "logo": "https://telegra.ph/file/5bba42dacd463db433053.jpg",
     "keywords": ["Telethon", "telegram", "userbot", "python"],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.now.sh/",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/kartikrajofficial0773h/KINGBOT",
+    "website": "https://github.com/kartikrajofficial0773h/KINGBOT",
+    "success_url": "https://t.me/KINGBOTOFFICIAL",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "You api id, from my.telegram.org or @UseTGXBot.",
             "value": ""
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "description": "You api hash, from my.telegram.org or @UseTGXBot.",
             "value": ""
         },
         "BOT_USERNAME": {
@@ -30,7 +30,8 @@
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
-            "value": ""
+            "value": "XYZ"
+            "required": false
         },
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
@@ -46,7 +47,7 @@
             "value": ""
         },
         "LOG_CHANNEL": {
-            "description": "Create a private group. Add @missrose_bot and your BOT_USERNAME bot. Do /id. Paste that here",
+            "description": "Create a private group. Add @missrose_bot / @KINGBOTOFFICIALROBOT and your BOT_USERNAME bot. Do /id. Paste that here",
              "value": ""
         }
     }
